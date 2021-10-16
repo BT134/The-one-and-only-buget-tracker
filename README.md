@@ -1,4 +1,4 @@
-# The-one-and-only-buget-tracker
+# The One And Only Buget Tracker
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
 
