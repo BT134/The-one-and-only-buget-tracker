@@ -8,7 +8,7 @@
   - [Description](#description)
   - [User Story](#user-story)
   - [Installation](#installation)
-  - [Visual Demo](#visual-demo)
+  - [Usage](#usage)
   - [Tests](#tests)
   - [Built With](#built-with)
   - [Acknowledgements](#acknowledgements)
