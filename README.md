@@ -27,6 +27,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Visual Demo
 
+><img src="assets\screenshot.JPG" alt= "Screenshot of budget tracker app">
 
 ## Tests
 
