@@ -22,12 +22,45 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 SO THAT my account balance is accurate when I am traveling
 ```
 
-## Installation/Usage
+## Installation
 
+1. Download or clone repository
+2. `npm install` to install the required npm packages to run
 
-## Visual Demo
+## Usage
 
-><img src="assets\screenshot.JPG" alt= "Screenshot of budget tracker app">
+App can be viewed [HERE](https://the-one-and-only-budgettracker.herokuapp.com/)
+
+OR once you have cloned the Repo --->
+
+* Application will be invoked by using the following command:
+
+  `node server.js`
+
+* Open your browser and go to
+  
+  `http://localhost:3000`
+
+* User can add transactions as deposits or expenses by inputting the following:
+  * Name of transaction
+  * Transaction amount
+  * For deposits - select **Add Funds**
+  * For expenses - select **Subtract Funds**
+
+* The total amount is reflected as soon as funds are entered
+
+* The graph portrays the total funds over time by date entered for each transaction
+
+<img src="assets\screenshot.JPG" alt= "Screenshot of budget tracker app">
+
+* The app can be used online and offline
+
+* Offline Functionality:
+  * Enter deposits offline
+  * Enter expenses offline
+
+* When brought back online:
+  * Offline entries should be added to tracker
 
 ## Tests
 
