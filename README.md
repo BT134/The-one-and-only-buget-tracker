@@ -51,7 +51,7 @@ OR once you have cloned the Repo --->
 
 * The graph portrays the total funds over time by date entered for each transaction
 
-<img src="assets\screenshot.JPG" alt= "Screenshot of budget tracker app">
+<img src="public\assets\screenshot.JPG" alt= "Screenshot of budget tracker app">
 
 * The app can be used online and offline
 
